@@ -1,0 +1,11 @@
+  {
+  "name": "teste_softex",
+  "version": "1.0.0",
+  "description": "Softex aula de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thyago Porto",
+  "license": "ISC"
+}
